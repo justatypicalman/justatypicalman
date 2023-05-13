@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric Dango
-- 👀 I’m interested in investing on myself
+- 👀 I’m interested in Web Development and want further growth in this field
 - 🌱 I’m currently learning on being a Full Stack Web Developer
 - 📫 How to reach me? Email: joegarcia11.jg@gmail.com | Facebook: https://www.facebook.com/ericplatinum
 
