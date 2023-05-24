@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Dango
-- 👀 I’m interested in Web Development and want further growth in this field
-- 🌱 I’m currently learning on being a Full Stack Web Developer
+- 👀 I have a keen interest in Web Development and I am looking to advance my skills and knowledge in this area to achieve further professional growth.
+- 🌱 At present, I am dedicating myself to the pursuit of becoming a Full Stack Web Developer.
 - 📫 How to reach me? Email: joegarcia11.jg@gmail.com | Facebook: https://www.facebook.com/ericplatinum
 
 <!---
