@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as System Development Intern<br>- 📚 I'm currently improving my skills on Next.js, React.js, Typescript, and Node.js<br>- ⚡ In my free time I am learning Japanese, hangout with friends and my SO.</p>
+<p align="left"> 🔭 I’m working as System Development Intern<br> 📚 I'm currently improving my skills on Next.js, React.js, Typescript, and Node.js<br> ⚡ In my free time I am learning Japanese, hangout with friends and my SO.</p>
 
 
 
