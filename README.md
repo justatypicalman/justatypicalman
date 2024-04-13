@@ -22,9 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justatypicalman&show_icons=true&locale=en" alt="justatypicalman" /></p>
 
 
+<br><br>
 
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="cnter">🔥   My Stats :</h3>
 
 ###
 
