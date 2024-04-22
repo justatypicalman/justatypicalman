@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Dango</h1>
-<h3 align="center">A passionate Full-Stack Web developer from Philippines</h3>
+<h3 align="center">A passionate Software Engineer/Full-Stack Web developer from Philippines</h3>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
